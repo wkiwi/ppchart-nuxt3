@@ -3,13 +3,15 @@
  * @Email: w_kiwi@163.com
  * @Date: 2023-08-11 18:00:11
  * @LastEditors: wkiwi
- * @LastEditTime: 2023-08-18 16:33:35
+ * @LastEditTime: 2023-08-18 16:45:16
 -->
 # Nuxt 3 版本ppchart
 
-参考[ppchart](https://github.com/ppchart/ppchart)
+参考[ppchart VUE3版本](https://github.com/ppchart/ppchart)  [ppchart官网](http://ppchart.com) 
 
-参考[Nuxt 3 文档](https://nuxt.com/docs/getting-started/introduction) to learn more.
+参考[Nuxt 3 文档](https://nuxt.com/docs/getting-started/introduction) 查看更多详情
+
+参考[Nuxt 3 中文文档](https://57code.github.io/nuxt3-docs-zh/usage/data-fetching.html#uselazyfetch)
 
 本项目旨在练习使用Nuxt 3 体验VUE 3 项目迁移Nuxt 3过程和练习Nuxt 3，让网站更好的SEO
 
