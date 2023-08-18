@@ -1,0 +1,7 @@
+{
+  // https://nuxt.com/docs/guide/concepts/typescript
+  "compilerOptions": {
+    "types": ["monaco-editor"]
+  },
+  "extends": "./.nuxt/tsconfig.json"
+}
